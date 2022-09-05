@@ -1,0 +1,33 @@
+total 124
+drwxrwxrwx 2 faozio faozio 4096 Sep  5 20:03 .
+drwxr-xr-x 6 faozio faozio 4096 Sep  5 18:48 ..
+-rwxrwxrwx 1 faozio faozio   30 Sep  5 19:53 0-hello_world
+-rwxrwxrwx 1 faozio faozio   28 Sep  5 19:54 1-confused_smiley
+-rwxrwxrwx 1 faozio faozio   50 Sep  1 12:34 10-no_more_js
+-rwxrwxrwx 1 faozio faozio   43 Sep  1 12:34 100-empty_casks
+-rwxrwxrwx 1 faozio faozio  115 Sep  1 12:34 101-gifs
+-rwxrwxrwx 1 faozio faozio   43 Sep  1 12:34 102-acrostic
+-rwxrwxrwx 1 faozio faozio  107 Sep  1 12:34 103-the_biggest_fan
+-rwxrwxrwx 1 faozio faozio   47 Sep  1 12:34 11-directories
+-rwxrwxrwx 1 faozio faozio   27 Sep  1 12:34 12-newest_files
+-rwxrwxrwx 1 faozio faozio   29 Sep  1 12:34 13-unique
+-rwxrwxrwx 1 faozio faozio   39 Sep  1 12:34 14-findthatword
+-rwxrwxrwx 1 faozio faozio   46 Sep  1 12:34 15-countthatword
+-rwxrwxrwx 1 faozio faozio   42 Sep  1 12:34 16-whatsnext
+-rwxrwxrwx 1 faozio faozio   39 Sep  1 12:34 17-hidethisword
+-rwxrwxrwx 1 faozio faozio   52 Sep  1 12:34 18-letteronly
+-rwxrwxrwx 1 faozio faozio   23 Sep  1 12:34 19-AZ
+-rwxrwxrwx 1 faozio faozio   28 Sep  5 19:56 2-hellofile
+-rwxrwxrwx 1 faozio faozio   23 Sep  1 12:34 20-hiago
+-rwxrwxrwx 1 faozio faozio   18 Sep  1 12:34 21-reverse
+-rwxrwxrwx 1 faozio faozio   49 Sep  1 12:34 22-users_and_homes
+-rwxrwxrwx 1 faozio faozio   39 Sep  5 19:56 3-twofiles
+-rwxrwxrwx 1 faozio faozio   29 Sep  5 19:57 4-lastlines
+-rwxrwxrwx 1 faozio faozio   29 Sep  5 19:58 5-firstlines
+-rwxrwxrwx 1 faozio faozio   50 Sep  5 20:00 6-third_line
+-rwxrwxrwx 1 faozio faozio   88 Sep  5 20:01 7-file
+-rwxrwxrwx 1 faozio faozio   36 Sep  5 20:03 8-cwd_state
+-rwxrwxrwx 1 faozio faozio   58 Sep  1 12:34 9-duplicate_last_line
+-rwxrwxrwx 1 faozio faozio 2467 Sep  1 12:34 README.md
+-rw-r--r-- 1 faozio faozio   17 Sep  5 20:02 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 faozio faozio    0 Sep  5 20:03 ls_cwd_content
