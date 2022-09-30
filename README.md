@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell scripting practice
+# Shell scripting practice
